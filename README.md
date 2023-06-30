@@ -15,6 +15,8 @@ AWS DocumentDB: AWS DocumentDB is a fully managed NoSQL database service provide
 
 AWS Cloud9: AWS Cloud9 is an integrated development environment (IDE) provided by AWS. It allows you to write, run, and debug code directly in your web browser. Cloud9 provides a complete development environment with features like code editing, terminal access, and collaboration tools. In the code, AWS Cloud9 is used as the development environment for writing and running the Python code.
 
+![Screen Shot 2023-06-30 at 1 11 30 PM](https://github.com/ndrishinski/baseball_scraping/assets/24279724/a761dad3-8883-47a5-96dc-576f25aefc89)
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install bs4, wikipedia and datetime
